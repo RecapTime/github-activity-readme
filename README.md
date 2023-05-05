@@ -1,6 +1,7 @@
 # GitHub Activity in Readme
 
-Updates a GitHub user's `README.md` with the recent GitHub activity.
+Updates a GitHub user's `README.md` with the recent GitHub activity. The only difference with this fork is Node.js 16.x compartibility
+and default `user.name` and `user.email` for the generated commit.
 
 <img width="735" alt="profile-repo" src="https://user-images.githubusercontent.com/25279263/87703301-3aa4a500-c7b8-11ea-8eb6-245121997a7b.png">
 

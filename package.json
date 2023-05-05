@@ -1,10 +1,10 @@
 {
-  "name": "github-activity-readme",
-  "version": "0.3.6",
-  "description": "Updates README with the recent GitHub activity of a user",
+  "name": "@recaptime/github-activity-readme",
+  "version": "0.5.0",
+  "description": "Updates README with the recent GitHub activity of a user, forked from https://github.com/jamesgeorge007/github-activity-readme",
   "main": "index.js",
   "keywords": [],
-  "author": "James George",
+  "author": "Andrei Jiroh Halili <ajhalili2006@andreijiroh.eu.org>",
   "license": "MIT",
   "scripts": {
     "format:check": "prettier --check index.js",
