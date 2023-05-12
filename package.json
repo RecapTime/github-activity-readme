@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "actions-toolkit": "^5.0.0"
+    "actions-toolkit": "^6.0.1"
   },
   "devDependencies": {
     "@zeit/ncc": "^0.22.3",
